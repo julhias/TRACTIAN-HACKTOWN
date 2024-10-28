@@ -16,19 +16,19 @@ Persona Planejador
 - Precisa programar quem vai ficar em cada turno, inclusive finais de semana e feriado, tomando cuidado para não deixar sempre a mesma pessoa nos turnos indesejados
 - Lê inúmeros relatórios de parada, para que possa elaborar planos de ação que diminuam o número de hora parada
 
-  Frameworks Recomendados
-Caso a equipe precise de framework de rápido aprendizado para implementar alguma etapa da solução, recomendamos:
-FrontEnd:
-Dash ou Streamlit (Python)
-React ou Next.JS (JavaScript)
-Bubble (low-code)
-BackEnd
-FastAPI (Python)
-NestJS (TypeScript)
-Mobile
-Nota: Não recomendamos às equipes a desenvolver Mobile se os membros não tiverem exteriência com algum dos frameworks.
-React Native - hibrido
-Flutter - hibrido
-Kotlin/JAVA - Android
-Swift - iOS
+ Frameworks Recomendados
+- Caso a equipe precise de framework de rápido aprendizado para implementar alguma etapa da solução, recomendamos:
+ FrontEnd:
+- Dash ou Streamlit (Python)
+- React ou Next.JS (JavaScript)
+- Bubble (low-code)
+- BackEnd
+- FastAPI (Python)
+- NestJS (TypeScript)
+- Mobile
+- Nota: Não recomendamos às equipes a desenvolver Mobile se os membros não tiverem exteriência com algum dos frameworks.
+- React Native - hibrido
+- Flutter - hibrido
+- Kotlin/JAVA - Android
+- Swift - iOS
 

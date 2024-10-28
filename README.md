@@ -1,5 +1,6 @@
 # TRACTIAN-HACKTOWN
-Nos foi apresentada duas personas de funcionários no chão de fabrica e seus problemas. Nossa proposta era facilitar a vida desses funcionários otimizando os seus serviços.
+a
+Na SECOMP UFSCAR (Semana da Compuração) no dia 28/10/2024 nos foi apresentada duas personas de funcionários no chão de fabrica e seus problemas. Nossa proposta era facilitar a vida desses funcionários otimizando os seus serviços.
 
 Persona tecnico de manutenção:
 - Começa o dia recebendo áudio com instruções do que fazer
